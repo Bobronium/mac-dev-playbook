@@ -2,8 +2,6 @@
 roles:
   - name: elliotweiser.osx-command-line-tools
   - name: geerlingguy.dotfiles
-  - src: https://github.com/feffi/ansible-macos-ohmyzsh.git
-    name: feffi.macos-ohmyzsh
 
 collections:
   - name: geerlingguy.mac
