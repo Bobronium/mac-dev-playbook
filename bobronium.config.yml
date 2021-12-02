@@ -43,12 +43,13 @@ homebrew_installed_packages:
   - micro
   - node
   - notion
-  - sqlite
-  - ssh-copy-id
   - openssl@3
   - pv
   - pyenv
   - rust
+  - sqlite
+  - ssh-copy-id
+  - telegram
   - wget
   - zlib
 
